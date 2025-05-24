@@ -9,7 +9,7 @@ from datetime import datetime
 from urllib.parse import urlparse
 from abc import ABC, abstractmethod
 
-# Configure logging
+# Configure logging - quite important
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -23,9 +23,7 @@ class BaseScraper(ABC):
     """Base scraper class with common functionality"""
     
     def __init__(self, retailer_name, base_delay=5, jitter=2, save_dir=r"C:\Users\adeda\OneDrive\Desktop\Ecommerce_Scraping\data"):
-        """
-        Initialize the base scraper
-        
+       """
         Args:
             retailer_name (str): Name of the retailer
             base_delay (int): Base delay between requests in seconds
@@ -52,8 +50,6 @@ class BaseScraper(ABC):
     
     def get_page(self, url, use_cache=True):
         """
-        Fetch a page with rate limiting and caching
-        
         Args:
             url (str): URL to fetch
             use_cache (bool): Whether to use cached response if available
