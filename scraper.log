@@ -1,0 +1,12 @@
+2025-05-20 17:43:08,443 - AmazonScraper - INFO - Fetching https://www.amazon.co.uk/Apple-iPhone-Pro-Max-256/dp/B0DGHZ1MC2?th=1 (delay: 10.03s)
+2025-05-20 17:43:20,786 - AmazonScraper - INFO - Saved product data to C:\Users\adeda\OneDrive\Desktop\Ecommerce_Scraping\data\Amazon_B0DGHZ1MC2_20250520_174320.json
+2025-05-20 17:43:20,787 - AmazonScraper - INFO - Fetching https://www.amazon.co.uk/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D7V12BWR?th=1 (delay: 11.24s)
+2025-05-20 17:43:35,151 - AmazonScraper - INFO - Saved product data to C:\Users\adeda\OneDrive\Desktop\Ecommerce_Scraping\data\Amazon_B0D7V12BWR_20250520_174335.json
+2025-05-20 17:43:35,151 - AmazonScraper - INFO - Fetching https://www.amazon.co.uk/Samsung-Smartphone-Storage-Included-Titanium/dp/B0DR374YZM?th=1 (delay: 12.94s)
+2025-05-20 17:43:50,785 - AmazonScraper - INFO - Saved product data to C:\Users\adeda\OneDrive\Desktop\Ecommerce_Scraping\data\Amazon_B0DR374YZM_20250520_174350.json
+2025-05-24 15:57:47,266 - AmazonScraper - INFO - Fetching https://www.amazon.co.uk/Apple-iPhone-Pro-Max-256/dp/B0DGHZ1MC2?th=1 (delay: 10.21s)
+2025-05-24 15:57:59,692 - AmazonScraper - INFO - Saved product data to C:\Users\adeda\OneDrive\Desktop\Ecommerce_Scraping\data\Amazon_B0DGHZ1MC2_20250524_155759.json
+2025-05-24 15:57:59,692 - AmazonScraper - INFO - Fetching https://www.amazon.co.uk/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D7V12BWR?th=1 (delay: 11.53s)
+2025-05-24 15:58:14,465 - AmazonScraper - INFO - Saved product data to C:\Users\adeda\OneDrive\Desktop\Ecommerce_Scraping\data\Amazon_B0D7V12BWR_20250524_155814.json
+2025-05-24 15:58:14,466 - AmazonScraper - INFO - Fetching https://www.amazon.co.uk/Samsung-Smartphone-Storage-Included-Titanium/dp/B0DR374YZM?th=1 (delay: 12.76s)
+2025-05-24 15:58:30,121 - AmazonScraper - INFO - Saved product data to C:\Users\adeda\OneDrive\Desktop\Ecommerce_Scraping\data\Amazon_B0DR374YZM_20250524_155830.json
