@@ -238,7 +238,7 @@ def insert_reviews(conn, review_data):
         conn.rollback()
         return None
 
-# Optional: Function to get product data by ID or other criteria
+# Function to get product data by ID or other criteria
 def get_product(conn, product_id=None, retailer=None, name=None):
     """Get product data from database"""
     try:
