@@ -79,12 +79,14 @@ Each retailer scraper (except Amazon) can be configured to use a rotating proxy 
 ---
 
 ## Supported Retailers
-Retailer	Status		Notes
-Amazon		Stable		Uses anti-bot delays and headers
-Walmart		Proxy		Fails without proxy; rotating proxy used
-Newegg		Proxy		Requires proxy for stability
-Target		Proxy		Requires proxy; may block often
+| Retailer | Status | Notes |
+|----------|--------|----------------------------------|
+| Amazon   | Stable | Uses anti-bot delays and headers |
+| Walmart  | Proxy  | Fails without proxy; rotating proxy used |
+| Newegg   | Proxy  | Requires proxy for stability |
+| Target   | Proxy  | Requires proxy; may block often |
 
+---
 
 ## Ethical Use
 
